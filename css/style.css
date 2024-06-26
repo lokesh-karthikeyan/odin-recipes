@@ -1,0 +1,60 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.homepage {
+  background-color: #7077a1;
+}
+
+.mochi-page {
+  background-color: #c6dcba;
+}
+
+.tiramisu-page {
+  background-color: #f7eedd;
+}
+
+.veg-korma-page {
+  background-color: #ffcf96;
+}
+
+body h1 {
+  font-size: 3rem;
+}
+
+.mochi-page h1 {
+  background-color: #8ca181;
+}
+
+.tiramisu-page h1 {
+  background-color: #b3a998;
+}
+
+.veg-korma-page h1 {
+  background-color: #bf9c73;
+}
+
+.title-level-1 {
+  background-color: #5e6382;
+}
+
+.title-level-1,
+.recipes-list li a {
+  color: white;
+}
+
+.recipes-list li a {
+  text-decoration: none;
+}
+
+body p,
+.ingredients-list,
+.steps-list {
+  font-size: 20px;
+}
+
+ul li,
+ol li {
+  line-height: 2;
+}
